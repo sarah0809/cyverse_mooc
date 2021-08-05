@@ -9,6 +9,8 @@
 **Introduction to CyVerse Self-Guided Course**
 ==================================================
 
+*CyVerse Austria*
+
 ..
     #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
     sharing data ####
