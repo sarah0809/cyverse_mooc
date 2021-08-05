@@ -1,14 +1,14 @@
 .. include:: cyverse_rst_defined_substitutions.txt
 .. include:: custom_urls.txt
 
-|CyVerse logo|_
+|CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Conclusion and Advanced Applications
----------------------------------------
+Tour of the Discovery Environment
+----------------------------------
 
 **Description:**
 
@@ -52,7 +52,6 @@ Conclusion and Advanced Applications
      what value to choose
 
 
-
 ..
 	#### Comment: Suggested style guide:
 	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
@@ -78,21 +77,8 @@ Conclusion and Advanced Applications
 
 ----
 
-**Summary**
+**Description of output and results**
 
-
-----
-
-Additional information, help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-..
-    Short description and links to any reading materials (KEEP THIS on LAST PAGE
-    of Tutorial)
-
-Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
 
 ----
 

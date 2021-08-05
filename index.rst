@@ -6,8 +6,8 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**TUTORIAL NAME**
-=================
+**Introduction to CyVerse Self-Guided Course**
+==================================================
 
 ..
     #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
@@ -43,8 +43,16 @@ Who to contact if this guide needs fixing. You can also email
 .. toctree::
 	:maxdepth: 2
 
-	Tutorial home <self>
-	Step One <step1.rst>
+  Tutorial home <self>
+  Course Overview <step1.rst>
+  CyVerse Background <step2.rst>
+  Data Management I <step3.rst>
+  Tour of the Discovery Environment <step4.rst>
+  Data Management II <step5.rst>
+  Analysis with the Discovery Environment <step6.rst>
+  Data Management III <step7.rst>
+  Interactive Analyses <step8.rst>
+  Conclusion and Advanced Applications <final_step.rst>
 	Delete this example guide page <example_directives_delete.rst>
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes

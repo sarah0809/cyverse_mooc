@@ -7,8 +7,8 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Section Name
--------------
+Course Overview
+-----------------
 
 **Description:**
 
