@@ -209,7 +209,7 @@ Once you have completed your work, you can save your work to the Data Store and 
     * - 'tree.newick'
       - A Newick-formatted phylogenetic tree file which can visualized using
         your choice of tools.
-      -
+      - |Rstudio output|
 
 
 ----
@@ -265,4 +265,3 @@ Once you have completed your work, you can save your work to the Data Store and 
 .. |Github Repo Link|  raw:: html
 
    <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
-   
