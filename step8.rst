@@ -101,13 +101,14 @@ accessible from CyVerse US. You must request access to use.
 
   3. Launch the application and adjust the following:
 
-     a. Under "Analysis Info", add comments if desired; click **Next**;
-     b. For "Parameters", under “Input Folder” click **Browse** and navigate to
-        `/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output`
-        we will use this entire folder as input for our project. Click **Select
-        Current Folder**; then **Next**;
-      c. Click **Next** to skip Advanced Settings;
-      d. Click **Launch Analysis** to launch your application
+      a. Under "Analysis Info", add comments if desired; click **Next**;
+      b. For "Parameters", under “Input Folder” click **Browse** and navigate to
+
+             `/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/02_muscle_output`
+          we will use this entire folder as input for our project. Click
+          **Select Current Folder**; then **Next**;
+       c. Click **Next** to skip Advanced Settings;
+       d. Click **Launch Analysis** to launch your application
 
   4. At this point you will be redirected to the Analyses menu. Your
      application will be listed as “Submitted” for a few minutes (usually just
@@ -150,7 +151,7 @@ happen at increased speed. To complete our analyses, we will install the |ape pa
        library(ape)
 
        #Read in the aligned DNA fasta file
-       alignment <- read.FASTA ~/work/02_muscle_output/fasta.aln", type="DNA")
+       alignment <- read.FASTA ("~/work/02_muscle_output/fasta.aln", type="DNA")
 
        # Create a distance matrix for the sequences
        dist_mtrx <- dist.dna(alignment)
@@ -162,7 +163,7 @@ happen at increased speed. To complete our analyses, we will install the |ape pa
        plot.phylo(nj_tree)
 
        # save the tree to a file
-      write.tree(nj_tree, file = "~/work/tree.newick")
+       write.tree(nj_tree, file = "~/work/tree.newick")
 
 2. You should have visualized the resulting tree and also created the file ‘tree.newick’ in your work directory
 
