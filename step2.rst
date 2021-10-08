@@ -10,24 +10,21 @@
 CyVerse Background
 --------------------
 
+    .. admonition:: learning-objectives
+
+       - Know the background of the CyVerse project
+       - Understand the basic capabilities of the CyVerse platform
+       - Understand the capabilities and limitations of the major international
+         installations (US/UK/Austria)
+
 **Description:**
 
-..
-	#### Comment: short text description goes here ####
+In this section we will cover a brief history of the CyVerse platform, explain
+some of the basic scientific applications, and give some details on how
+different CyVerse installations work.
 
 ----
 
-**Input Data:**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
 
 *Descriptive Steps*
 ~~~~~~~~~~~~~~~~~~~
@@ -61,24 +58,6 @@ CyVerse Background
 	4. Primary menu titles in double quotes: Under "Input" choose...
 	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
 	####
-
-**Output/Results**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Output
-      - Description
-      - Example
-    * -
-      -
-      -
-
-
-----
-
-**Description of output and results**
-
 
 ----
 

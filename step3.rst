@@ -10,6 +10,13 @@
 Data Management I
 -------------------
 
+    .. admonition:: learning-objectives
+
+       - Objective 1
+       - Objective 2
+       - Objective n
+
+
 **Description:**
 
 ..
@@ -29,38 +36,49 @@ Data Management I
       -
       -
 
-*Descriptive Steps*
-~~~~~~~~~~~~~~~~~~~
+Downloading data from the Discovery Environment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Replace the text below with your own
+1. If necessary, log into the CyVerse |Discovery Environment|.
 
-2. Use the image src in this link to link to
+2. Click the |Data Icon| (Data Icon) to browse your collection of files in the
+   CyVerse Data Store.
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
+3. In the top left of the page, you should see your username with a dropdown
+   arrow next to it; Click on your username, then click Community Data in the
+   dropdown menu.
 
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
+    .. tip::
 
-4. Tell the user to choose an appropriate value for a setting
+       This dropdown menu allows you to navigate between your home directory
+       in the Data Store (i.e. your username), and other CyVerse data
+       collections such as files shared with you (i.e. "Shared with Me"), and
+       files shared by the CyVerse community (i.e. "Community Data"). You may
+       also access files located in your "Trash" folder.
 
-   .. admonition:: sample-data
+4. Select **Community Data** and navigate to the folder which will contain our
+   example data:
 
-     Tell them if they are following with our sample data exactly
-     what value to choose
+   :download:`/iplant/home/shared/cyverse_training/cyverse_mooc/XXXXXX`
+
+5. Click (Select) the checkbox next to the folder to select that file.
 
 
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+6. Click on the **More Actions** button on the upper right and select the
+   **Download** option to download the file to your local computer.
+
+   .. tip::
+
+      We don't recommend downloading many (more than 10) or large (more than
+      2GB) files directly from the Discovery Environment since files transferred
+      in this way will make use of HTML protocols which are slow and subject to
+      failure for very large data sets. Cyberduck or iCommands (discussed below
+      and in the |Data Store Guide|) are recommended for these uses.
+
+
 
 **Output/Results**
 
@@ -77,8 +95,48 @@ Data Management I
 
 ----
 
-**Description of output and results**
+**Self Assessment Questions**
 
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. What do the letters in FAIR refer to?
+
+       A. Fixable, Assessable, Interpretable, Recyclable
+       B. Fast Access In Repetition
+       C. Findable, Accessible, Interoperable, Reusable
+       D. Fixable, Automated, Intersectional, Reducible
+
+
+       .. admonition:: Answer
+
+          Correct answer is C
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. True or False, is FAIR data is the same as Open data?
+
+       .. admonition:: Answer
+
+          False
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q3. Which of the following are NOT true of the process of making your data FAIR?
+
+       A. It will be the same regardless of discipline
+       B. It may require some technical skills
+       C. It can be easier with CyVerse
+       D. It happens on a continuum, not a binary FAIR/not FAIR
+
+
+       .. admonition:: Answer
+
+          Correct answer is A
 
 ----
 
