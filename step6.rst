@@ -94,8 +94,8 @@ Analysis with the Discovery Environment
 
 ----
 
-**Self Assessment Questions**
-
+Self Assessment Questions
+`````````````````````````````
 
   .. admonition:: Question
        :class: admonition-question

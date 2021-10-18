@@ -6,22 +6,23 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**Introduction to CyVerse Self-Guided Course**
-==================================================
+**Introduction to CyVerse Self-Guided Course: CyVerse USA**
+==============================================================
 
-*CyVerse USA*
-
-..
-    #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
-    sharing data ####
 
 Goal
 ----
 
-..
-    #### Comment: Avoid covering upstream and downstream steps that are not explicitly and
-    necessarily part of the tutorial - write or link to separate quick
-    starts/tutorials for those parts ####
+This is a short self-guided course that will take you through the basics of
+using CyVerse.
+
+  .. tip::
+        **See other versions of this documentation (CyVerse UK and CyVerse Austria)**
+
+        In the lower-left hand side of the screen, change the version of this
+        documentation from cyverse-us to one of the other documentation sets
+        developed for this online guide (*cyverse-uk* or *cyverse-at*) to see
+        specifics that apply to those installations.
 
 ----
 
@@ -40,6 +41,7 @@ Who to contact if this guide needs fixing. You can also email
     * - Your Name
       - CyVerse / UA
       - Yourname@email.com
+
 ----
 
 .. toctree::
@@ -56,10 +58,6 @@ Who to contact if this guide needs fixing. You can also email
   Interactive Analyses <step8.rst>
   Conclusion and Advanced Applications <final_step.rst>
 	Delete this example guide page <example_directives_delete.rst>
-..
-	#### Comment:This tutorial can have multiple pages. The table of contents assumes
-	you have an additional page called 'Step One' with content located in 'step1.rst'
-	Edit these titles and filenames as needed ####
 
 
 Prerequisites
@@ -94,8 +92,6 @@ Platform(s)
 
 *We will use the following CyVerse platform(s):*
 
- ..
-   #### comment: delete any row not needed in this table ####
 
 .. list-table::
     :header-rows: 1
@@ -112,23 +108,7 @@ Platform(s)
       - Web/Point-and-click
       - |Discovery Environment|
       - |Discovery Environment Guide|
-    * - Atmosphere
-      - Command line (ssh) and/or Desktop (VNC)
-      - |Atmosphere|
-      - |Atmosphere Guide|
-    * - BisQue
-      - Web/Point-and-click and/or Command-line (API)
-      - |BisQue|
-      - |BisQue Manual|
-      - (See Manual)
-    * - DNA Subway
-      - Web/Point-and-click
-      - |DNA Subway|
-      - |DNA Subway Guide|
-    * - SciApps
-      - Command-line (API)
-      - |SciApps|
-      - |SciApps Guide|
+
 
 Application(s) used
 ~~~~~~~~~~~~~~~~~~~

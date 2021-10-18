@@ -218,6 +218,57 @@ Once you have completed your work, you can save your work to the Data Store and 
 **Description of output and results**
 
 
+
+----
+
+Self Assessment Questions
+````````````````````````````
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q3. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
 ----
 
 **Fix or improve this documentation**

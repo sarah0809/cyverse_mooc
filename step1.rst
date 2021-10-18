@@ -9,75 +9,83 @@
 
 Course Overview
 -----------------
+    .. admonition:: learning-objectives
+
+       - Determine whether this course is right for you
+       - Be able to find documentation on the CyVerse Learning Center
+       - Create a CyVerse account
+
 
 **Description:**
 
-..
-	#### Comment: short text description goes here ####
+In this module, we introduce the course content and help you determine whether
+this course is right for you. We then show you how to create a CyVerse account
+and find more information in the Learning Center.
 
 ----
 
-**Input Data:**
 
-.. list-table::
-    :header-rows: 1
+*Create a CyVerse Account*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
-
-*Descriptive Steps*
-~~~~~~~~~~~~~~~~~~~
-
-.. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
+**Instructions for CyVerse US**
 
 
-1. Replace the text below with your own
-
-2. Use the image src in this link to link to
-
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
-
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
-
-4. Tell the user to choose an appropriate value for a setting
-
-   .. admonition:: sample-data
-
-     Tell them if they are following with our sample data exactly
-     what value to choose
-
-
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
-
-**Output/Results**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Output
-      - Description
-      - Example
-    * -
-      -
-      -
+*Access and Search the CyVerse Learning Account*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ----
 
-**Description of output and results**
+Self Assessment Questions
+````````````````````````````
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q3. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
 
 
 ----
