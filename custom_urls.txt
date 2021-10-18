@@ -51,17 +51,13 @@
 
    <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/Rocker_RStudio_Latest_analysis1" target="blank">Rstudio output</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |Cyberduck| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://cyberduck.io/download/" target="blank">Cyberduck</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |MUSCLE input folder| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
-
-.. |SUBSTITUTION_NAME| raw:: html
-
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input" target="blank">MUSCLE input folder</a>
 
 .. |SUBSTITUTION_NAME| raw:: html
 

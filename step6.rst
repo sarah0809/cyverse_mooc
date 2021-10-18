@@ -10,6 +10,12 @@
 Analysis with the Discovery Environment
 ----------------------------------------
 
+    .. admonition:: learning-objectives
+
+       - Objective 1
+       - Objective 2
+       - Objective n
+
 **Description:**
 
 ..
@@ -25,42 +31,40 @@ Analysis with the Discovery Environment
     * - Input
       - Description
       - Example
-    * -
-      -
-      -
+    * - A fasta file containing DNA sequences to align.
+      - We will use the previously uploaded file from the `Data Management II <step5.html>`_
+        section.
+      - View the example |MUSCLE input folder|.
+
+`Learning Center Home <http://learning.cyverse.org/>`_
 
 *Descriptive Steps*
 ~~~~~~~~~~~~~~~~~~~
 
-.. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
+1. If necessary, log into the CyVerse |Discovery Environment|.
+
+2. Click |Apps icon| (Apps icon) from the DE workspace; search for **MUSCLE- 3.8.31**
+
+3. Under “Analysis Info”, you can leave the defaults or make any desired notes.
+
+4. Under “Select Input Data” click Browse, then navigate the uploaded file
+   (**DE_sample_plants.fas**); then click OK.
+
+5. Under “Sequence Type”, select DNA.
+
+6. Under the optional “Advanced Settings”, leave the default settings. If
+   required, some analyses may be launched with requests for more minimum
+   Resource Requirements, but this may cause those analyses to sit longer in
+   the submission queue until a node matching those minimum requirements
+   becomes available.
+
+7. Click Launch Analysis
+
+8. You will receive a notification and be redirected to the Analyses Listing
+   page.
 
 
-1. Replace the text below with your own
 
-2. Use the image src in this link to link to
-
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
-
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
-
-4. Tell the user to choose an appropriate value for a setting
-
-   .. admonition:: sample-data
-
-     Tell them if they are following with our sample data exactly
-     what value to choose
-
-
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
 
 **Output/Results**
 
@@ -70,15 +74,61 @@ Analysis with the Discovery Environment
     * - Output
       - Description
       - Example
-    * -
-      -
-      -
+    * - - A folder of logs
+        - clstalw.aln
+        - fasta.aln
+        - phylip_interleaved.aln
+        - phylip_sequential.aln
+      - The logs folder are log files returned with every Discovery Environment
+        analyses. These can be useful for diagnosing failed analyses. All other
+        files are outputs of the Muscle software and contain multiple sequence
+        alignments in a variety of common formats.
+      - View the example |MUSCLE output folder|.
 
 
 ----
 
 **Description of output and results**
 
+
+
+----
+
+**Self Assessment Questions**
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. Which of the following are true about Docker containers?
+
+       A. They share the host OS
+       B. They have process-level isolation.
+       C. They are are heavyweight.
+       D. They have a startup time in the minutes range.
+
+
+
+       .. admonition:: Answer
+
+          Correct answer is A and B
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. Which of the following are incorrect about Docker containers?
+
+       A. Dockerfiles are a recipe for creating Docker images.
+       B. Docker containers are a collection of Dockerfiles.
+       C. Docker images get built by running a Docker command which uses the
+          Dockerfile.
+       D. Docker containers are running instances of a Docker image.
+
+
+       .. admonition:: Answer
+
+          The incorrect statement is B
 
 ----
 
