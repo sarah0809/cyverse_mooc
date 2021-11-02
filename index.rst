@@ -37,9 +37,9 @@ Who to contact if this guide needs fixing. You can also email
     * - Maintainer
       - Institution
       - Contact
-    * - Your Name
-      - CyVerse / UA
-      - Yourname@email.com
+    * - Krister Jazz Urog
+      - CyVerse UK/ Earlham Insitute
+      - KristerJazz.Urog@earlham.ac.uk
 ----
 
 .. toctree::
