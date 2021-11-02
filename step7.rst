@@ -82,6 +82,57 @@ Data Management III
 
 ----
 
+Self Assessment Questions
+````````````````````````````
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q3. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+----
+
 **Fix or improve this documentation**
 
 - Search for an answer:

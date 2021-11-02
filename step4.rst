@@ -10,6 +10,13 @@
 Tour of the Discovery Environment
 ----------------------------------
 
+    .. admonition:: learning-objectives
+
+       - Objective 1
+       - Objective 2
+       - Objective n
+
+
 **Description:**
 
 ..
@@ -29,38 +36,51 @@ Tour of the Discovery Environment
       -
       -
 
-*Descriptive Steps*
-~~~~~~~~~~~~~~~~~~~
+*Self-guided Discovery Environment Tour*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Replace the text below with your own
+1. Log into the CyVerse |Discovery Environment|.
 
-2. Use the image src in this link to link to
+2. Familiarize with platform by hovering and clicking among the different
+   options:
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
+   - a. Use the search bar where you can search for anything in the Data, Apps,
+        and Analyses panels.
 
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
+   - b. Use the question bar to chat with CyVerse support.
 
-4. Tell the user to choose an appropriate value for a setting
+   - c. Use the bag feature to organize items you want to download (e.g. like
+        an online shopping cart).
 
-   .. admonition:: sample-data
+   - d. Use notifications to see the history and status of analyses and data
+        sharing, and other transactions.
 
-     Tell them if they are following with our sample data exactly
-     what value to choose
+3. On the left-hand sidebar, click on the following to see what is available:
 
+   - a. Home - Discovery Environment dashboard
+   - b. Data - Interface to the Datastore including your personal and shared
+        data
+   - c. Apps - Applications
+   - d. Analyses - Status and history of analysis jobs
+   - e. Cloud shell - Quicklaunch of a linux shell
+   - f. Teams - Organize collaborators and sharing
+   - g. Collections - Public collections of applications and data
+   - h. Help - Help and support
 
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+4. Go back to the Data menu and familiarize with the options:
+
+   - a. Your home folder
+   - b. "Shared with me" folder
+   - c. "Community Data" folder
+   - d. "Trash"
+
+   .. admonition:: Try it!
+
+      In your home folder create a “raw_data” and a “results” folder
+
 
 **Output/Results**
 
@@ -79,7 +99,57 @@ Tour of the Discovery Environment
 
 **Description of output and results**
 
+----
 
+
+Self Assessment Questions
+````````````````````````````
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q3. Question
+
+       A. Choice A
+       B. Choice B
+       C. Choice C
+       D. Choice C
+
+
+       .. admonition:: Answer
+
+          Correct answer is ANSWER
 ----
 
 **Fix or improve this documentation**

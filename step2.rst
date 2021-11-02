@@ -10,74 +10,88 @@
 CyVerse Background
 --------------------
 
+    .. admonition:: learning-objectives
+
+       - Know the background of the CyVerse project
+       - Understand the basic capabilities of the CyVerse platform
+       - Understand the capabilities and limitations of the major international
+         installations (US/UK/Austria)
+
 **Description:**
 
-..
-	#### Comment: short text description goes here ####
+In this section we will cover a brief history of the CyVerse platform, explain
+some of the basic scientific applications, and give some details on how
+different CyVerse installations work.
 
 ----
 
-**Input Data:**
 
-.. list-table::
-    :header-rows: 1
-
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
-
-*Descriptive Steps*
-~~~~~~~~~~~~~~~~~~~
+*CyVerse Background Videos and Slides*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Replace the text below with your own
+1. Watch the video for this section and complete the self-assessment questions.
 
-2. Use the image src in this link to link to
+       .. raw:: html
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
-
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
-
-4. Tell the user to choose an appropriate value for a setting
-
-   .. admonition:: sample-data
-
-     Tell them if they are following with our sample data exactly
-     what value to choose
-
-
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
-
-**Output/Results**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Output
-      - Description
-      - Example
-    * -
-      -
-      -
+           <div class="video-container">
+           <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/XLBpway_jG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           </div>
 
 
 ----
 
-**Description of output and results**
+Self Assessment Questions
+````````````````````````````
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. What is cyberinfrastructure?
+
+       .. admonition:: Answer
+
+          Cyberinfrastructure is more than just an online computing platform.
+          It's the combination of computing and data management tools along
+          with training and support. Making these tools work nicely together
+          and giving you the training and help you need to get work done is the
+          goal for CyVerse.
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. True or false: you need to know how to use the command line to use CyVerse
+
+       A. True
+       B. False
+
+       .. admonition:: Answer
+
+          FALSE. There are some tools and services where you can use a command
+          line interface if you desire, but most tools and services don't
+          require you to use any command line interface.
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q3. How does CyVerse US differ from other CyVerse installations?
+
+
+       .. admonition:: Answer
+
+          CyVerse US is the original and main CyVerse platform, the one you
+          will visit if you are using any platform served by cyverse.org.
+          CyVerse US generally has the broadest set of tools and services.
+          While anyone can get a free account, there may be some limitations
+          for non-US users.
+
+          .. tip:: See other versions of this documentation
+
+                In the lower-left hand side of the screen, change the version of this documentation from cyverse-us to one of the other documentation sets developed for this online guide (cyverse-uk or cyverse-at) to see specifics that apply to those installations.
+
 
 
 ----

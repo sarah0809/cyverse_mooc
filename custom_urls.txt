@@ -8,3 +8,141 @@
     :width: 125
     :height: 20
     :target: https://de.cyverse.org/de/  target="_blank"
+.. |CyVerse_rocker_launch| image:: ./img/Powered-By-CyVerse-blue.png
+    :width: 125
+    :height: 20
+    :target: https://de.cyverse.org/apps/de/95476bc6-bbe3-11eb-a080-008cfa5ae621  target="_blank"
+.. |Apps icon| image:: ./img/de/apps_icon.png
+    :width: 32
+    :height: 24
+.. |Link out icon| image:: ./img/de/link_out_icon.png
+    :width: 24
+    :height: 24
+
+.. |Data icon| image:: ./img/de/data_icon.png
+    :width: 32
+    :height: 24
+
+.. |VICE| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/vice/en/latest/index.html" target="blank">VICE</a>
+
+.. |MUSCLE output folder| raw:: html
+
+   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/02_muscle_output" target="blank">MUSCLE output folder</a>
+
+.. |services panel| raw:: html
+
+   <a href="https://user.cyverse.org/services" target="blank">services panel</a>
+
+.. |ORCID| raw:: html
+
+   <a href="https://orcid.org/" target="blank">ORCID</a>
+
+.. |Rocker Project| raw:: html
+
+   <a href="https://www.rocker-project.org/" target="blank">Rocker Project</a>
+
+.. |ape package| raw:: html
+
+   <a href="https://cran.r-project.org/web/packages/ape/index.html" target="blank">ape package</a>
+
+.. |Rstudio output| raw:: html
+
+   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/Rocker_RStudio_Latest_analysis1" target="blank">Rstudio output</a>
+
+.. |Cyberduck| raw:: html
+
+   <a href="https://cyberduck.io/download/" target="blank">Cyberduck</a>
+
+.. |MUSCLE input folder| raw:: html
+
+   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input" target="blank">MUSCLE input folder</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
+
+.. |SUBSTITUTION_NAME| raw:: html
+
+   <a href="URL" target="blank">LINK_NAME</a>
