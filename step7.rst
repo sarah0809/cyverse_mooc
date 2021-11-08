@@ -10,10 +10,14 @@
 Data Management III
 --------------------
 
+    .. admonition:: learning-objectives
+
+       - Understand how to apply metadata in the discovery environment interface
+       - Understand how to share data with other CyVerse users
+
 **Description:**
 
-..
-	#### Comment: short text description goes here ####
+In this module, we introduce how to apply metadata in the Discovery Environment and demonstrate how to share data with other CyVerse users.
 
 ----
 
@@ -25,42 +29,44 @@ Data Management III
     * - Input
       - Description
       - Example
-    * -
-      -
-      -
+    * - Tutorial folder containing **DE_sample_plants.fas** and **Readme.txt**
+        created previously.
+      - These are the dataset and metadata readme file created previously
+      - **FIX FIX FIX**
 
-*Descriptive Steps*
-~~~~~~~~~~~~~~~~~~~
+*Editing Metadata on Single Files in the Discovery Environment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
+  1. If necessary, log into the CyVerse |Discovery Environment|.
+
+  2. Click the |Data Icon| (Data Icon) to browse your collection of files in the
+     CyVerse Data Store.
+
+  3. Navigate to the **tutorial_folder** and select (checkbox) the
+     **DE_sample_plants.fas** file uploaded previously.
+
+  4. Under the **More Actions** menu, click on the **`Metadata`** choice.
+     You will see existing metadata for the file/folder in the Attribute,
+     Value, Unit (AVU) format.
+
+*Adding metadata*
+  1. Click the “+ Add Metadata” button to add a new entry. Then follow the
+     directions for editing metadata below.
+
+*Editing or deleting metadata*
+
+  1. Use the “pencil” icon to edit an existing entry or the “trash can”
+     icon to delete an entry.
+
+  2. After you have made any edits or deletion, click ‘Save’ (on the top right
+     of the screen) to save all entries and apply the metadata.
 
 
-1. Replace the text below with your own
+*Apply metadata on multiple files in the Discovery Environment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-2. Use the image src in this link to link to
+It is possible to add or edit metadata on multiples files in the Discovery Environment by uploading a spreadsheet with this metadata. The spreadsheet can be designed to follow a metadata format or standard, or contain whatever metadata entries you want associated with a set of files. See the |Metadata documentation in the Data Store Guide| for more details.
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
-
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
-
-4. Tell the user to choose an appropriate value for a setting
-
-   .. admonition:: sample-data
-
-     Tell them if they are following with our sample data exactly
-     what value to choose
-
-
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
 
 **Output/Results**
 
@@ -70,14 +76,36 @@ Data Management III
     * - Output
       - Description
       - Example
-    * -
-      -
-      -
+    * - A *DE_sample_plants.fas* file with metadata applied
+      - Metadata associated with a file uploaded to the CyVerse Data Store is
+        now made searchable by the metadata attributes.
+      - FIX FIX FIX FIX
 
+*Data Sharing in the Discovery Environment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-----
+  1. If necessary, log into the CyVerse |Discovery Environment|.
 
-**Description of output and results**
+  2. Click the |Data Icon| (Data Icon) to browse your collection of files in the
+     CyVerse Data Store.
+
+  3. Navigate to the **tutorial_folder** created previously and select
+     (checkbox) the folder. Click the **Share Menu**
+
+  4. In the ‘search for users’ field search for the CyVerse user you wish to
+     share with by searching for their name, or CyVerse username. You may also
+     select ‘Choose from Collaborators’ which will bring up a list of people
+     you have designated as collaborators.
+
+  5. Next, under ‘Permissions’ choose what permission you want to grant the
+     person you are sharing this file with.
+
+     .. tip::
+
+     	  See more on |Sharing Permissions| in the Data Store Guide.
+
+  6. Once you are finished, click Done to begin sharing. The user will be
+     notified that a file has been shared with them.
 
 
 ----
@@ -88,48 +116,42 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. Question
-
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
-
+       Q1. Use the readme file from Data Management I and apply the metadata correctly to your file using the DE.
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+           Click here to see how it should look and compare your results. **FIX FIX FIX FIX**
 
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q2. Question
+       Q2. Which of the following are true about metadata in the CyVerse Data Store?
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       A. Are structured in Attribute-Value-Unit in CyVerse
+       B. Contain information about the corresponding data file
+       C. Are discoverable in CyVerse through ElasticSearch
+       D. Contain results of experiments
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is A, B, and C
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q3. Question
+       Q3. Select the correct statement: Sharing of research data in CyVerse...
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
-
+       A. Will be sent to collaboration partners automatically
+       B. Will transfer of ownership to a collaborator
+       C. Enables cross-institutional collaboration
+       D. Ensures that data stays in a single accessible location you control
+          access to.
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is C, D
 
 ----
 

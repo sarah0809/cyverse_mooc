@@ -12,15 +12,17 @@ Data Management II
 
     .. admonition:: learning-objectives
 
-       - Objective 1
-       - Objective 2
-       - Objective n
+       - Understand the basic capabilities of the Data Store
+       - Know how to configure Cyberduck
+       - Be able to upload a dataset using the Discovery Environment or
+         Cyberduck
+       - Be able to apply metadata to a datasets
+       - Be able to search for a dataset
 
 
 **Description:**
 
-..
-	#### Comment: short text description goes here ####
+In this module we will try to discuss the basic capabilities of the Data Store particularly how you can upload your dataset.
 
 ----
 

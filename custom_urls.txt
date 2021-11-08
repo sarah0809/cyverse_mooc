@@ -59,13 +59,13 @@
 
    <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input" target="blank">MUSCLE input folder</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |Metadata documentation in the Data Store Guide| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://learning.cyverse.org/projects/data_store_guide/en/latest/step3.html" target="blank">Metadata documentation in the Data Store Guide</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |Sharing Permissions| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://learning.cyverse.org/projects/data_store_guide/en/latest/step4.html#share-a-file-folder-in-discovery-environment-with-another-cyverse-user" target="blank">Sharing Permissions</a>
 
 .. |SUBSTITUTION_NAME| raw:: html
 
