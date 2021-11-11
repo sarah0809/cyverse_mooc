@@ -6,10 +6,8 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**Introduction to CyVerse Self-Guided Course: CyVerse USA**
+**Introduction to CyVerse Self-Guided Course: CyVerse UK**
 ==============================================================
-
-*CyVerse UK*
 
 ..
     #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
@@ -22,11 +20,11 @@ This is a short self-guided course that will take you through the basics of
 using CyVerse.
 
   .. tip::
-        **See other versions of this documentation (CyVerse UK and CyVerse Austria)**
+        **See other versions of this documentation (CyVerse USA and CyVerse Austria)**
 
         In the lower-left hand side of the screen, change the version of this
         documentation from cyverse-us to one of the other documentation sets
-        developed for this online guide (*cyverse-uk* or *cyverse-at*) to see
+        developed for this online guide (*cyverse-usa* or *cyverse-at*) to see
         specifics that apply to those installations.
 
 ----
