@@ -12,12 +12,13 @@ Tour of the Discovery Environment
 
     .. admonition:: learning-objectives
 
-       - Objective 1
-       - Objective 2
-       - Objective n
+       - Sign up and log in to the Discovery Environment
+       - Familiarize with the major menu items
+       - Create a folder for data and analysis
 
 
 **Description:**
+In this module, we will introduce the web interface of the Discovery Environment. This will be done by navigating through all the major menu items and familiarizing on what you can do for each menu. Lastly, we will try to create your own folder for your data and analysis which can be used for your data and subsequent modules.
 
 ..
 	#### Comment: short text description goes here ####
@@ -108,17 +109,17 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. Question
+       Q1. Which of the following is NOT part of the Menu options
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       A. Data
+       B. Apps
+       C. Home
+       D. Videos
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is D.
 
 
   .. admonition:: Question
