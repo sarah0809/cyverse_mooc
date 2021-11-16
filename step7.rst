@@ -12,7 +12,7 @@ Data Management III
 
     .. admonition:: learning-objectives
 
-       - Understand how to apply metadata in the discovery environment interface
+       - Understand how to apply metadata in the Discovery Environment interface
        - Understand how to share data with other CyVerse users
 
 **Description:**
