@@ -17,7 +17,7 @@
 
 Goal
 ----
-
+This is a short self-guided course that will take you through the basics of using CyVerse.
 ..
     #### Comment: Avoid covering upstream and downstream steps that are not explicitly and
     necessarily part of the tutorial - write or link to separate quick
@@ -29,7 +29,7 @@ Tutorial Maintainer(s)
 ------------------------
 
 Who to contact if this guide needs fixing. You can also email
-`learning@CyVerse.org <learning@CyVerse.org>`_
+`cyverse-support@tugraz.at <cyverse-support@tugraz.at>`_
 
 .. list-table::
     :header-rows: 1
